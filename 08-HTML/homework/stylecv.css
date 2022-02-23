@@ -1,0 +1,22 @@
+*
+#fotocv{
+    flex: auto;
+    margin-top: 20px;
+    position: relative;
+    border: 10px;
+    padding: auto;
+}
+
+#p{
+    border-left: 30px;
+    font-size: 25px;
+}
+
+h1{
+    color: black;
+    font: arial;
+    font-size: 31px;
+}
+body{
+    background-image: url("https://i0.wp.com/saintpolicesystems.com/wp-content/uploads/2018/06/blue-light-backgrounds-background-opera-image-graphics-community-speeddials.jpg?resize=1024%2C640");
+}
